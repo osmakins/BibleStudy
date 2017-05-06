@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name"><b>Bible Study</b></string>
+    <string name="your_name">Name: <xliff:g id = "name" example="Amy">%s</xliff:g></string>
+    <string name="weldone">Weldone!</string>
+    <string name="title">Answer the following  T or F questions correctly:</string>
+    <string name="opt1">True</string>
+    <string name="opt2">False</string>
+    <string name="hint">Enter your name here...</string>
+    <string name="question1">1. Jesus was born in Bethlehem.</string>
+    <string name="question2">2. Matthew was a tax collector.</string>
+    <string name="question3">3. Jesus baptized John the baptist.</string>
+    <string name="question4">4. Peter denied Jesus three times.</string>
+    <string name="question5">5. Simon Peter was a carpenter.</string>
+    <string name="question6">6. Lazarus raise Jesus from the dead.</string>
+    <string name="question7">7. Revelation is the last book of the new testament.</string>
+</resources>
