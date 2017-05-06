@@ -1,4 +1,4 @@
-# BibleStudy
+# QuizApp
 
 Udacity quiz app project.
 
